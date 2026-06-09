@@ -88,7 +88,7 @@ This project was created to practice:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/secret-friend-draw.git
+git clone https://github.com/GustavoPGCordeiro/secret-friend-draw.git
 ```
 
 2. Open the project folder.
